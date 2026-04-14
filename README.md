@@ -1,16 +1,20 @@
-## Hi there 👋
+# Thiago Machado
 
-<!--
-**Gordiu/Gordiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software em formação, com foco em back-end Java e MySQL.
+Técnico de TI com 2 anos de experiência profissional.
+Cursando Bacharelado em Ciência da Computação – UNIFUCAMP (conclusão: 2026).
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## Projetos em destaque
+
+- **[ElizaBot-and-NGrams](https://github.com/Gordiu/ElizaBot-and-NGrams)** — Chatbot e implementação de N-Grams em Python
+- **[Melhoramento-Iterativo-Java](https://github.com/Gordiu/Melhoramento-Iterativo-Java)** — Algoritmo de melhoramento iterativo aplicado a IA em Java
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagomachado-dev)
